@@ -1,4 +1,4 @@
 title: My GitHub Pages Site
 description: >- # Describes your site.
   This is an example site powered by GitHub Pages and Jekyll.
-theme: minima # This is one of GitHub Pages' supported themes.
+theme: jekyll-theme-slate # This is one of GitHub Pages' supported themes.
